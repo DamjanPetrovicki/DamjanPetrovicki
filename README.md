@@ -6,4 +6,4 @@
 - And, I'm 13 
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=DamjanPetrovicki&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamjanPetrovicki&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamjanPetrovicki&theme=dark&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
