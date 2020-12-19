@@ -2,7 +2,7 @@
 
 - I live in Croatia's Capital, Zagreb
 - 🌱 Learning C#, JS and Lua
-- And, I'm 13 
+- And, I'm 14
 
 **Langs and Tools**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
